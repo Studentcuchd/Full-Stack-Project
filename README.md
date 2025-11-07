@@ -30,4 +30,7 @@ LearnPath is a modern, interactive career guidance platform that helps users mas
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd learnpath
+
+npm install
+
+npm start
